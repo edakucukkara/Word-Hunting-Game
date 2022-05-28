@@ -19,3 +19,4 @@ gamer_inputs <br/>
 word_control <br/>
 finish_line <br/>**
 ###### Game Map
+![](GAME%20MAP.png)
